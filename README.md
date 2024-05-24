@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc - minamew</h1>
-<h3 align="center">An aspiring Cyber Expert!</h3>
+<h3 align="center">An aspiring Cybersecurity Expert!</h3>
 
 - 🌱 I’m currently learning **Google Cybersecurity**
 
