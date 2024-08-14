@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc - minamew</h1>
-<h3 align="center">An aspiring Cybersecurity Expert!</h3>
+<h3 align="center">If you know my other account with high stars, please keep it quiet. </h3>
 
-- 🌱 I’m currently learning **Google Cybersecurity**
+- 🌱 Hack4Gov Finalist, PacketHacks Finalist, Solana Hackathon Enjoyer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
