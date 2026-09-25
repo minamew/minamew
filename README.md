@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc - minamew</h1>
-<h3 align="center">If you know my other account with high stars, please keep it quiet. </h3>
 
-- 🌱 Hack4Gov Finalist, PacketHacks Finalist, Solana Hackathon Enjoyer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
